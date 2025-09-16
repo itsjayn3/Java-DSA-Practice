@@ -8,3 +8,6 @@ It includes:
 - ADT implementations (ArrayList, LinkedList, ListNode)  
 
 All code is written and tested by me as part of my learning and problem-solving practice.
+
+All challenge classes are under `src/Challenges/`.  
+
